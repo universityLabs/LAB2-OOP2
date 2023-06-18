@@ -1,0 +1,15 @@
+/Users/maksymkhodakov/RiderProjects/DesignPatterns/DesignPatterns/bin/Debug/net6.0/DesignPatterns
+/Users/maksymkhodakov/RiderProjects/DesignPatterns/DesignPatterns/bin/Debug/net6.0/DesignPatterns.deps.json
+/Users/maksymkhodakov/RiderProjects/DesignPatterns/DesignPatterns/bin/Debug/net6.0/DesignPatterns.runtimeconfig.json
+/Users/maksymkhodakov/RiderProjects/DesignPatterns/DesignPatterns/bin/Debug/net6.0/DesignPatterns.dll
+/Users/maksymkhodakov/RiderProjects/DesignPatterns/DesignPatterns/bin/Debug/net6.0/DesignPatterns.pdb
+/Users/maksymkhodakov/RiderProjects/DesignPatterns/DesignPatterns/obj/Debug/net6.0/DesignPatterns.csproj.AssemblyReference.cache
+/Users/maksymkhodakov/RiderProjects/DesignPatterns/DesignPatterns/obj/Debug/net6.0/DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksymkhodakov/RiderProjects/DesignPatterns/DesignPatterns/obj/Debug/net6.0/DesignPatterns.AssemblyInfoInputs.cache
+/Users/maksymkhodakov/RiderProjects/DesignPatterns/DesignPatterns/obj/Debug/net6.0/DesignPatterns.AssemblyInfo.cs
+/Users/maksymkhodakov/RiderProjects/DesignPatterns/DesignPatterns/obj/Debug/net6.0/DesignPatterns.csproj.CoreCompileInputs.cache
+/Users/maksymkhodakov/RiderProjects/DesignPatterns/DesignPatterns/obj/Debug/net6.0/DesignPatterns.dll
+/Users/maksymkhodakov/RiderProjects/DesignPatterns/DesignPatterns/obj/Debug/net6.0/refint/DesignPatterns.dll
+/Users/maksymkhodakov/RiderProjects/DesignPatterns/DesignPatterns/obj/Debug/net6.0/DesignPatterns.pdb
+/Users/maksymkhodakov/RiderProjects/DesignPatterns/DesignPatterns/obj/Debug/net6.0/DesignPatterns.genruntimeconfig.cache
+/Users/maksymkhodakov/RiderProjects/DesignPatterns/DesignPatterns/obj/Debug/net6.0/ref/DesignPatterns.dll
